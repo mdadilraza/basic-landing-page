@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Ebeneser",
+        "last_name": "Claire",
+        "email": "eclaire0@purevolume.com",
+        "gender": "Agender"
+    },
+    {
+        "id": 2,
+        "first_name": "Kipp",
+        "last_name": "Uphill",
+        "email": "kuphill1@w3.org",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Priscella",
+        "last_name": "Rushford",
+        "email": "prushford2@washington.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Joan",
+        "last_name": "Georgeson",
+        "email": "jgeorgeson3@facebook.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Del",
+        "last_name": "Brewse",
+        "email": "dbrewse4@alibaba.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Avie",
+        "last_name": "Pawnsford",
+        "email": "apawnsford5@sourceforge.net",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Horacio",
+        "last_name": "Muglestone",
+        "email": "hmuglestone6@cocolog-nifty.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Bogart",
+        "last_name": "Sydry",
+        "email": "bsydry7@zimbio.com",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Dallon",
+        "last_name": "Longley",
+        "email": "dlongley8@independent.co.uk",
+        "gender": "Male"
+    },
+    {
+        "id": 10,
+        "first_name": "Ediva",
+        "last_name": "Anthoin",
+        "email": "eanthoin9@usa.gov",
+        "gender": "Female"
+    }
+]

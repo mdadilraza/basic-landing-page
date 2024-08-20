@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignUp</title>
+    <link rel="stylesheet" href="./styles/index.css">
+</head>
+
+<body>
+    <form action="./index.html">
+        <h1>SignUp Form</h1>
+        <input type="text" id="name" placeholder="Name" required pattern="[a-z A-Z]{3,15}" title="Min 3 Max 15 Charcter">
+        <input type="text" id="email" placeholder="Email Address" required pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$">
+        <input type="password" id="password" placeholder="Password" required pattern=".{8,}" >
+        <input type="text" id="confirmPassword" placeholder="Confirm Password" required>
+        <button id="signup" type="submit">SignUp</button>
+        <p>Already have an account? <a href="./index.html">Login</a></p>
+    </form>
+    <script src="./js/signUp.js"></script>
+</body>
+
+</html>
